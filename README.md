@@ -102,3 +102,4 @@ vercel.json              # Vercel SPA fallback 配置
 ## 版权说明
 
 本应用不内置《新概念英语》任何课文原文或音频。所有原文内容由用户自行购买正版教材后手动粘贴使用。
+Deployed with Vercel.
